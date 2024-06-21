@@ -1,6 +1,6 @@
 # Drum-Sound-Classifier
 
-<img src="./img/drum-classifier-cover.png" alt="Drum-Sound-Classifier" height="250px" style="width: 200%;">
+<img src="./img/drum-classifier-cover.png" alt="Drum-Sound-Classifier">
 
 ## Introduction
 Drum sound classification is a crucial task in music production and music information retrieval. Identifying different types of drum sounds can aid in various applications, such as automated music transcription, genre classification, and music generation. This project explores the use of deep learning models, particularly CNNs, to classify drum sounds accurately.
@@ -30,6 +30,6 @@ The performance of the models in this project is evaluated using a combination o
 Below is the final Confusion Matrix for the final model:
 
 <div style="text-align: center;">
-    <img src="./img/Final-Confusion-Matrix.png" alt="Final-Confusion-Matrix" height="300px" style="width: auto;">
+    <img src="./img/Final-Confusion-Matrix.png" alt="Final-Confusion-Matrix" height="400px" style="width: auto;">
 </div>
 
